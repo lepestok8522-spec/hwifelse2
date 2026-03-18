@@ -7,7 +7,7 @@ public class Main {
             bonus = amount / 100;
         }
         balans = balans + amount + bonus;
-        System.out.println("Итоговый счет: "+balans);
+        System.out.println("Итоговый счет: " + balans);
         System.out.println("Бонусы: " + bonus);
     }
 }
